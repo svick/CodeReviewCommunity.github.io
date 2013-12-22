@@ -1,0 +1,33 @@
+hr{
+     margin: 10pt;
+	 border-color: #000
+}
+
+body {
+     font-family: 'Lucida Grande', 'Helvetica Neue', georgia;
+     font-size: 13pt;
+     background: #28abdc;
+     margin: 2pt;
+}
+
+h1 {
+     width: 750pt;
+     font-size: 75pt;
+     margin: 25pt auto;
+     text-align: center;
+     color: #fff;
+     text-shadow: 0pt 1pt 1pt #ddd,
+                  0pt 2pt 1pt #d6d6d6,
+                  0pt 3pt 1pt #ccc,
+                  0pt 4pt 1pt #c5c5c5,
+                  0pt 5pt 1pt #c1c1c1,
+                  0pt 6pt 1pt #bbb,
+                  0pt 7pt 1pt #777,
+                  0pt 8pt 3pt rgba(100, 100, 100, 0.4),
+                  0pt 9pt 5pt rgba(100, 100, 100, 0.1),
+                  0pt 10pt 7pt rgba(100, 100, 100, 0.15),
+                  0pt 11pt 9pt rgba(100, 100, 100, 0.2),
+                  0pt 12pt 11pt rgba(100, 100, 100, 0.25),
+                  0pt 13pt 15pt rgba(100, 100, 100, 0.3);
+}
+
